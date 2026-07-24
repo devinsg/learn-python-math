@@ -10,11 +10,10 @@ install uvicorn
 
 uvicorn main:app --reload http://127.0.0.1:8000/docs
 
-## Learning
-
+### Learning
 * Using Python on Windows: https://docs.python.org/3/using/windows.html
 
-### TO DO: remove those lines
+
 ### Building the code
 
 ```bash
