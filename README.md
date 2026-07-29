@@ -3,9 +3,15 @@
 ```bash
 python3 --version
 
-pip3 install 
+pip3 install
 fastapi pip3 
 install uvicorn
+```
+
+```new bash (Mac OS)
+python3 --version
+pip3 install pandas fastapi pydantic uvicorn
+uvicorn main:app --reload
 ```
 
 uvicorn main:app --reload http://127.0.0.1:8000/docs
@@ -15,13 +21,6 @@ uvicorn main:app --reload http://127.0.0.1:8000/docs
 
 
 ### Building the code
-
-```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
-```
 
 This package produces the following:
 
