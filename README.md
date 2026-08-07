@@ -27,14 +27,3 @@ This package produces the following:
 * lib/* - intermediate-stage commonjs build artifacts
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
-
-### Steps for develop/deployment
-- nvm use 8.11.1
-- npm install -g yo gulp
-- npm install -g @microsoft/generator-sharepoint
-
-- gulp serve
-- gulp build
-- gulp bundle --ship
-- gulp deploy-azure-storage (if deploy to Azure CDN instead of Office 365 CDN)
-- gulp package-solution --ship
