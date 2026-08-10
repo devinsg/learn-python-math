@@ -1,0 +1,5 @@
+### files
+*.mp4
+
+### folder
+__pycache__
