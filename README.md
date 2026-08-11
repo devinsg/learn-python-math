@@ -26,11 +26,4 @@ uvicorn main:app --reload http://127.0.0.1:8000/docs
 
 * Python for Beginners with Hands-On Projects: https://www.youtube.com/watch?v=oDOw5tB3Udw&t=3402s
 
-
-### Building the code
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
+* Learn Python for Data Science – Full Course for Beginners: https://www.youtube.com/watch?v=CMEWVn1uZpQ
