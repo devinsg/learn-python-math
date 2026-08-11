@@ -1,7 +1,7 @@
 import subprocess
 
 # Replace this with the .m3u8 or .mpd link found in your browser network tab
-manifest_url = "https://cdn.abc.com/hls/480p,720p,1080p,.mp4.urlset/master.m3u8?hash=xyz"
+manifest_url = "https://www.abc.com/get_file/master.m3u8"
 output_file = "downloaded_video.mp4"
 
 # Use FFmpeg to automatically stream, stitch, and convert the video chunks
