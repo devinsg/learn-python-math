@@ -30,5 +30,7 @@ uvicorn main:app --reload http://127.0.0.1:8000/docs
 
 * Learn Python for Data Science – Full Course for Beginners: https://www.youtube.com/watch?v=CMEWVn1uZpQ
 
+* PyTorch for Deep Learning & Machine Learning – Full Course: https://www.youtube.com/watch?v=V_xro1bcAuA
+
 * MIT 6.100L Introduction to CS and Programming using Python, Fall 2022: (26 lessons)
 https://www.youtube.com/watch?v=xAcTmDO6NTI&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB
